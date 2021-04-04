@@ -10,6 +10,7 @@ public class Calculator {
      public double addSubstraction(double  a,double b){
          return a - b;
      }
+     //Added by me
      public double addDiv(double x,double y){
          return x / y;
      }
